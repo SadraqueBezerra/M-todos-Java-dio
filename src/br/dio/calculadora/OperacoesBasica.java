@@ -3,7 +3,7 @@ package br.dio.calculadora;
 import java.util.Scanner;
 
 public class OperacoesBasica {
-	
+
 	public static void main(String[] args) {
 
 		try (Scanner scan = new Scanner(System.in)) {
